@@ -13,5 +13,5 @@ TBD
 
 **Dallas R User Group Planning**
 
-MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/258275311/
-GitHub: [2019-02-02_planning/README.md](2019-02-02_planning/README.md)
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/258275311/  
+GitHub: [2019-02-02_planning/README.md](2019-02-02_planning/)

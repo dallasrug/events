@@ -4,9 +4,8 @@ _February 2, 2019_
 
 [MeetUp web-page](https://www.meetup.com/Dallas-R-Users-Group/events/258275311/)
 
-## Files
+### Files
 
-[Agenda](agenda.md)
-[Proposed Organization](proposed_organization.md)
-[Meeting Minutes](minutes.md)
-
+- [Agenda](agenda.md)
+- [Proposed Organization](proposed_organization.md)
+- [Meeting Minutes](minutes.md)
