@@ -7,13 +7,20 @@ links to slides, code, and other materials
 
 ## Next Event
 
+TBA
+
+
+## Previous Events
+
 **Putting the "You" in the R Community**
 
-_Presenter:_ **Thomas Mock** (RStudio)
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/259461095/  
+GitHub: [2019-03-23_r-community/README.md](2019-03-23_r-community/)
 
-_Abstract_: Overview of the various sub-communities and resources in the greater 
-R universe, with a "field guide" to joining a community, contributing, and 
-generally maintaining or growing your knowledge of R.
+**Dallas R Users Group Planning**
+
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/258275311/  
+GitHub: [2019-02-02_planning/README.md](2019-02-02_planning/)
 
 
 ## Repository contents
@@ -21,11 +28,3 @@ generally maintaining or growing your knowledge of R.
 - [Code of Conduct](https://github.com/dallasrug/events/blob/master/code-of-conduct.md)
 - [Topics of Interest](https://github.com/dallasrug/events/blob/master/2019-02-02_planning/minutes.md)
     + _(for speakers in search of a topic)_
-
-
-## Last Event
-
-**Dallas R Users Group Planning**
-
-MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/258275311/  
-GitHub: [2019-02-02_planning/README.md](2019-02-02_planning/)
