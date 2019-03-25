@@ -2,4 +2,4 @@
 
 Presenter: [Thomas Mock](https://twitter.com/thomas_mock)
 
-Presentation: [R Community](events/2019-03-23_r-community/r-community.pdf)
+Presentation: [R Community](r-community.pdf)
