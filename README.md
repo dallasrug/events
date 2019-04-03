@@ -7,7 +7,12 @@ links to slides, code, and other materials
 
 ## Next Event
 
-TBA
+**Predicting putts on the PGA Tour**
+
+April 20, 2019
+
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/260295353/  
+GitHub: TBD
 
 
 ## Previous Events
