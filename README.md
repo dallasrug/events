@@ -5,27 +5,40 @@
 This repository contains information regarding the Dallas R Users Group events: 
 links to slides, code, and other materials
 
+
 ## Next Event
 
-**Predicting putts on the PGA Tour**
+**TBD**
 
-April 20, 2019
+Date: TBD
 
-MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/260295353/  
+MeetUp: TBD
 GitHub: TBD
 
 
 ## Previous Events
 
+**Fundamentals of R**
+
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/266229877/
+GitHub: [2019-11-16_fundamentals](2019-11-16_fundamentals/)
+
+
+**Predicting putts on the PGA Tour**
+
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/260295353/  
+GitHub: [2019-04-20_predicting_putts](2019-04-20_predicting_putts/)
+
+
 **Putting the "You" in the R Community**
 
 MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/259461095/  
-GitHub: [2019-03-23_r-community/README.md](2019-03-23_r-community/)
+GitHub: [2019-03-23_r-community](2019-03-23_r-community/)
 
 **Dallas R Users Group Planning**
 
 MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/258275311/  
-GitHub: [2019-02-02_planning/README.md](2019-02-02_planning/)
+GitHub: [2019-02-02_planning](2019-02-02_planning/)
 
 
 ## Repository contents
