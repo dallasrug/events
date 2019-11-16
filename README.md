@@ -8,19 +8,19 @@ links to slides, code, and other materials
 
 ## Next Event
 
-**TBD**
+**TBD**  
 
-Date: TBD
+Date: TBD  
 
-MeetUp: TBD
-GitHub: TBD
+MeetUp: TBD  
+GitHub: TBD  
 
 
 ## Previous Events
 
 **Fundamentals of R**
 
-MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/266229877/
+MeetUp: https://www.meetup.com/Dallas-R-Users-Group/events/266229877/  
 GitHub: [2019-11-16_fundamentals](2019-11-16_fundamentals/)
 
 
